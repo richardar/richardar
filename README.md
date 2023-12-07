@@ -1,4 +1,4 @@
-🚀 Node.js Developer | 📊 Data Science Enthusiast
+🚀 Machine Learning Engineer | 📊 Data Science Enthusiast
 
 👋 Hey there! I'm Gratus Richard, a passionate Node.js developer and avid explorer of the data-driven universe. My code dances with the event-driven magic of Node.js, creating robust and scalable applications that breathe life into ideas.
 
