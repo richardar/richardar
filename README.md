@@ -1,4 +1,4 @@
-🚀 Machine Learning Engineer | 📊 Data Science Enthusiast
+🚀 Machine Learning Engineer @TheReciprocalSolutions
 
 
 <!---
