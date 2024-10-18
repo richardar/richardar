@@ -1,4 +1,4 @@
-🚀 Machine Learning Engineer @TheReciprocalSolutions
+🚀 Machine Learning Engineer
 
 
 <!---
