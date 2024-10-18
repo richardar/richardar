@@ -1,4 +1,5 @@
 🚀 Machine Learning Engineer
+Masters in Data Science Student at the University of Nottingham
 
 
 <!---
