@@ -1,5 +1,5 @@
 🚀 Machine Learning Engineer
-Masters in Data Science Student at the University of Nottingham
+Masters in Computer Science (Artificial Intelligence) Student at the University of Nottingham
 
 
 <!---
