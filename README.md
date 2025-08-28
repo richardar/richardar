@@ -1,5 +1,6 @@
 🚀 Machine Learning Engineer
 Masters in Computer Science (Artificial Intelligence) Student at the University of Nottingham
+Machine Learning, Full Stack Development, Data Science.
 
 
 <!---
